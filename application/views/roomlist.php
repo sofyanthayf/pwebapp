@@ -11,7 +11,7 @@
         ?>
 
               <li>
-                <a href="<?=base_url()?>/rooms/<?= $l?>">lantai <?= $l ?></a>
+                <a href="<?=base_url()?>rooms/<?= $l?>">lantai <?= $l ?></a>
               </li>
 
         <?php
