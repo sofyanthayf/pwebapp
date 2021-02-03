@@ -15,9 +15,9 @@
   <nav class="light-blue lighten-1" role="navigation">
     <div class="nav-wrapper container"><a id="logo-container" href="#" class="brand-logo">PWEB Hotel</a>
       <ul class="right hide-on-med-and-down">
-        <li><a href="/rooms">Rooms</a></li>
-        <li><a href="/guests">Guests</a></li>
-        <li><a href="/members">Members</a></li>
+        <li><a href="rooms">Rooms</a></li>
+        <li><a href="guests">Guests</a></li>
+        <li><a href="members">Members</a></li>
       </ul>
 
       <ul id="nav-mobile" class="sidenav">
